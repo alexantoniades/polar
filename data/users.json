@@ -1,5 +1,7 @@
+// Example file, should be populated with system users in format: 
+// user_id: user_name
 {
-  "root": 1,
-  "admin1": 2,
-  "user1": 3
+  "1": "root",
+  "2": "admin1",
+  "23": "user1"
 }
