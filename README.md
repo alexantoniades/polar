@@ -41,7 +41,7 @@ The occurrences.json and users.json were removed and purged to protect user info
 
 ```bash
 # Clone repository
-git clone git@github.com:alexantoniades/polar.py.git
+git clone git@github.com:alexantoniades/polar.git
 # Change directory
 cd polar.py
 # Install dependencies
