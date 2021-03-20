@@ -43,7 +43,7 @@ The occurrences.json and users.json were removed and purged to protect user info
 # Clone repository
 git clone git@github.com:alexantoniades/polar.git
 # Change directory
-cd polar.py
+cd polar
 # Install dependencies
 sudo pip3 install -r requirements.txt
 ```
