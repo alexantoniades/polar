@@ -2,7 +2,7 @@ tensorflow
 tensorboard
 theano
 keras
-numpy==1.16.3
+numpy==1.22.0
 flask
 IPython
 pydot
